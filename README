@@ -1,0 +1,35 @@
+Game Portal-
+
+    Welcome to the Game Portal! This project allows users to play various games including KBC (Kaun Banega Crorepati), 
+    Tic Tac Toe, Blackjack, Rock Paper Scissors, and Hangman.
+
+Introduction-
+
+    The Game Portal is a collection of interactive text-based games designed to entertain users and provide an enjoyable  
+    gaming experience. Each game offers unique gameplay and challenges for players of all ages.
+
+Features-
+
+    # Selection of multiple games to play.
+
+    # Text-to-speech functionality for game announcements and instructions.
+
+    # User-friendly interface with color highlighting.
+
+    # Support for both keyboard input and voice commands.
+
+Run-
+
+```
+  python main.py
+```
+
+Usage-
+
+    # Upon launching the Game Portal, users will be greeted with a welcome message and prompted to enter their name.
+
+    # They can then select a game from the available options by entering the corresponding number.
+
+    # Each game provides instructions and prompts for user interaction.
+
+    # After completing a game, users have the option to play another game or exit the portal.
